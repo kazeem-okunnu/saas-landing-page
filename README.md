@@ -1,8 +1,16 @@
-# React + Vite
+# SaaS Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🚀 Overview
+A clean and modern landing page for SaaS startups with pricing plans, features, and testimonials.
 
-Currently, two official plugins are available:
+## 🛠️ Built With
+- React.js  
+- Tailwind CSS  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
+- Hero section and feature highlights
+- Call-to-action buttons
+- Responsive layout
+
+## 💡 What I Learned
+I learned how to create visually appealing landing pages and improve call-to-action placement
